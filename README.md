@@ -1,0 +1,2 @@
+# faq
+Written in Go.
