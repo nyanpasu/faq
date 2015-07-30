@@ -1,0 +1,10 @@
+FAQ
+===
+
+* Questions do not fall-through
+
+Q: ^((how|why|who|whom|what|where|when|which|whose)\S+.+)\?$
+A: http://google.com/?q=$1
+
+Q: ^.+\?$
+A: ┐('~'; )┌
