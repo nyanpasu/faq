@@ -1,2 +1,5 @@
-# faq
-Written in Go.
+# FAQ
+
+## ^.+\?$
+
+┐('~'; )┌
